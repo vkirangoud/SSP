@@ -1,0 +1,6 @@
+http://www.cae.wisc.edu/~ece539/matlab/
+
+matlab program for LMS algorithm
+
+interactive class room applications:http://dspserv.sdsu.edu/classroom/content.htm
+Neural Networks: http://dspserv.sdsu.edu/classroom/neural.htm
